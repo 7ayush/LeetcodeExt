@@ -19,6 +19,7 @@ It is a light-weight browser extension which runs in the menu bar. It boosts you
 * https://leetcode.com/tag/*
 * https://leetcode.com/problems/* 
 
+## Input the question number or question name to go to the search from any site
 ## :star2: Installation
 
 Clone the source code locally:
