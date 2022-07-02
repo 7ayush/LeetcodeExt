@@ -1,4 +1,4 @@
-<img src="./images/logoFull.png" alt="logo full" width="500">
+<img src="./icons/logo.png" alt="logo full" width="500">
 <hr>
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
