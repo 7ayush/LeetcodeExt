@@ -8,14 +8,6 @@
 
 It is a light-weight browser extension which runs in the menu bar. It boosts your productivity by hiding unnecessary visual elements from the screen, enabling you to focus on what is important. You can change your preferences form the popup menu and find out what best suits your needs.
 
-<div align="center">
-    <img src="./images/ui.png">
-    <br>
-    <img src="./images/ui4.png">
-    <br>
-    <img src="./images/ui3.png">
-</div>
-
 ## :heavy_check_mark: Features
 * Hide locked problems from the table
 * Hide / Show any table column (including Difficulty, Acceptance, etc)
@@ -32,7 +24,7 @@ It is a light-weight browser extension which runs in the menu bar. It boosts you
 Clone the source code locally:
 
 ```sh
-$ git clone https://github.com/loveshdongre/leetcode-enhancer/
+$ git clone https://github.com/7ayush/leetcodeext/
 $ cd leetcode-enhancer
 ```
 ### Google Chrome
@@ -58,5 +50,6 @@ Know more about [pull request](https://docs.github.com/en/free-pro-team@latest/g
 * Mozilla Firefox 83.0
 * Google Chrome 87.0
 
+
 ## :clipboard: License
-MIT © <a href = "https://loveshdongre.tech" target="_blank">Ayush Kaushik</a>
+MIT © <a href = "https://www.linkedin.com/in/ayush-kaushik-437835174/" target="_blank">Ayush Kaushik</a>
