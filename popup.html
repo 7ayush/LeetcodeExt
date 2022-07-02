@@ -74,7 +74,12 @@
                 </div>
             </fieldset>
         </div>
-
+        <form id="form" action="popup.html" action="POST">
+            <div class="buttons options">
+                <input type="text" name="problem" id="problemInput" placeholder="Search on Leetcode" autocomplete="off" required>
+                <button class="btnSubmit" type="submit">Submit</button>
+            </div>
+        </form>
     </div>
     <!-- popup.js is at the end of the page so it gets loaded last -->
     <script src="popup.js"></script>

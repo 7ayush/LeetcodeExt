@@ -23,6 +23,16 @@ function updatePopup(options) {
     }
 }
 
+document.getElementById("form").addEventListener("submit",function(event){
+    event.preventDefault();
+    let val=document.getElementById("problemInput").value;
+    for(var i=0;i<val.length;i++)
+    {
+        if(val[i]==' ')val[i]='+';
+    }
+    const url="https://www.leetcode.com/problemset/all/?search="+val;
+    window.open(url);
+});
 // on clicking checkbox
 function onChange() {
     browser.tabs.query({}, function(tabs) {
